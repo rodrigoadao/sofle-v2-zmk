@@ -34,6 +34,8 @@
             bindings = <&kp RA(COMMA)>;
             key-positions = <31 32>;
             layers = <1>;
+            timeout-ms = <45>;
+            require-prior-idle-ms = <0>;
         };
     };
 
