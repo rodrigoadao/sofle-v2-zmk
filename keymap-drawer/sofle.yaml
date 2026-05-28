@@ -185,3 +185,7 @@ layers:
   - ''
   - ''
   - ''
+combos:
+- p: [31, 32]
+  k: AltGr+,
+  l: [lower]
