@@ -32,7 +32,7 @@
 
         cedilha {
             bindings = <&kp RA(COMMA)>;
-            key-positions = <32 33>;
+            key-positions = <20 21>;
             layers = <0>;
             timeout-ms = <45>;
             require-prior-idle-ms = <0>;
