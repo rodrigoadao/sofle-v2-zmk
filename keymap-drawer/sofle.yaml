@@ -186,6 +186,6 @@ layers:
   - ''
   - ''
 combos:
-- p: [31, 32]
+- p: [32, 33]
   k: AltGr+,
-  l: [lower]
+  l: [default]
